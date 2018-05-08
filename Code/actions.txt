@@ -1,0 +1,16 @@
+
+What do you want to do?
+
+	1)  Print faKeBook
+	2)  Print Friends of all Users
+	3)  Print all friends of any User
+	4)  Print allmutual friends of any two Users
+	5)  faKeBook Suggestions
+	6)  Add User
+	7)  Delete User
+	8)  Add Friend
+	9)  Remove Friend
+	10) Print all Users between ages
+	11) Print all Males between ages
+	12) Print all Females between ages
+	13) Terminate faKeBook
